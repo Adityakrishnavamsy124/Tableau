@@ -8,27 +8,27 @@ Superstore, a nationwide retail chain, aims to enhance its sales and profitabili
 
 ### Objectives:
 
-Sales Performance Analysis: Analyze the overall sales performance across different regions, product categories, and time periods.
-Profitability Insights: Identify the most and least profitable products and regions.
-Customer Segmentation: Understand customer purchasing patterns and segment customers based on their buying behavior.
-Market Penetration: Evaluate market penetration and sales distribution globally.
-Actionable Recommendations: Provide actionable recommendations to improve sales and profitability.
+1. Sales Performance Analysis: Analyze the overall sales performance across different regions, product categories, and time periods.
+2. Profitability Insights: Identify the most and least profitable products and regions.
+3. Customer Segmentation: Understand customer purchasing patterns and segment customers based on their buying behavior.
+4. Market Penetration: Evaluate market penetration and sales distribution globally.
+5. Actionable Recommendations: Provide actionable recommendations to improve sales and profitability.
 
 
 ## Data Visualization Requirements:
 
-Filters: Implement interactive filters for date range, regions, product categories, and customer segments.
-Actions: Set up actions for interactivity between different dashboards (e.g., clicking on a region in the map filters the sales performance dashboard for that region).
-Graphs:
-Sales Trend Line Graph: Show monthly and yearly sales trends.
-Profit by Product Category Bar Chart: Highlight the profit margins across different product categories.
-Sales Distribution Pie Chart: Display the distribution of sales across various regions.
-Top 10 Products Scatter Plot: Visualize the relationship between sales and profit for the top 10 products.
-Customer Segmentation Heatmap: Analyze customer segments based on their purchasing frequency and sales amount.
-World Map: Create a world map to show sales distribution and market penetration across different countries.
-Data Aggregation: Aggregate data to show total sales, average sales per customer, and overall profitability.
-Navigation: Develop a user-friendly navigation panel to switch between different dashboards and views.
-Conditional Statements: Use conditional formatting to highlight high and low-performing regions and products.
+* Filters: Implement interactive filters for date range, regions, product categories, and customer segments.
+* Actions: Set up actions for interactivity between different dashboards (e.g., clicking on a region in the map filters the sales performance dashboard for that region).
+* Graphs:
+ -Sales Trend Line Graph: Show monthly and yearly sales trends.
+ -Profit by Product Category Bar Chart: Highlight the profit margins across different product categories.
+ -Sales Distribution Pie Chart: Display the distribution of sales across various regions.
+ -Top 10 Products Scatter Plot: Visualize the relationship between sales and profit for the top 10 products.
+ -Customer Segmentation Heatmap: Analyze customer segments based on their purchasing frequency and sales amount.
+* World Map: Create a world map to show sales distribution and market penetration across different countries.
+* Data Aggregation: Aggregate data to show total sales, average sales per customer, and overall profitability.
+* Navigation: Develop a user-friendly navigation panel to switch between different dashboards and views.
+* Conditional Statements: Use conditional formatting to highlight high and low-performing regions and products.
 
 
 
